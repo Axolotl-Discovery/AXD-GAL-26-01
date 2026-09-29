@@ -1,0 +1,11 @@
+# Documentos administrativos
+Factura*.pdf
+Cotizaci*.pdf
+datos_factura*.json
+
+# Basura
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
+desktop.ini

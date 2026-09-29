@@ -1,0 +1,188 @@
+Receptor cargado: 5589 atomos
+
+==============================================================
+  FENTA — BLIND
+==============================================================
+
+  -- H-Bond (1) --
+    ASP149  [M] OD2 <->N     3.38 A
+
+  -- Electrostatico (1) --
+    ASP149  [M] OD2 <->N     3.38 A
+
+  -- Hidrofobico (8) --
+    VAL145  [M] CG1 <->C     3.23 A
+    ILE146  [M] CA  <->C     3.75 A
+    TYR150  [M] CZ  <->C     3.76 A
+    ILE298  [M] CG1 <->C     3.83 A
+    VAL302  [M] CG2 <->C     3.83 A
+    ILE324  [M] CA  <->C     3.90 A
+    GLY327  [M] CA  <->C     3.82 A
+    TYR328  [M] CD2 <->C     3.77 A
+
+  Total: 10 contactos | Residuos clave: 0
+
+==============================================================
+  FENTA — SITE
+==============================================================
+
+  -- Hidrofobico (9) --
+    PHE154  [R] CE1 <->C     3.52 A
+    PHE154  [M] CE1 <->C     3.85 A
+    PHE158  [M] CE1 <->C     3.84 A
+    LEU196  [M] CB  <->C     3.99 A
+    ILE200  [R] CD1 <->C     3.99 A
+    ILE200  [M] CB  <->C     3.85 A
+    CYS237  [R] CB  <->C     3.88 A
+    PHE241  [R] CB  <->C     3.81 A [CLAVE]
+    PHE241  [M] CB  <->C     3.75 A [CLAVE]
+
+  Total: 9 contactos | Residuos clave: 2
+
+==============================================================
+  NF1 — BLIND
+==============================================================
+
+  -- H-Bond (4) --
+    GLN126  [R] OE1 <->O     3.34 A
+    ASP149  [R] OD2 <->O     3.17 A
+    GLY327  [R] O   <->N     3.21 A
+    TYR328  [R] OH  <->O     2.70 A
+
+  -- Electrostatico (1) --
+    ASP149  [R] OD2 <->O     3.17 A
+
+  -- Hidrofobico (11) --
+    ASP149  [R] CG  <->C     3.95 A
+    TYR150  [R] CE1 <->C     3.95 A
+    LEU234  [R] C   <->C     3.89 A
+    LYS235  [R] CA  <->C     3.75 A
+    VAL238  [R] CB  <->C     3.82 A
+    TRP295  [R] CZ3 <->C     3.78 A
+    ILE298  [R] CG1 <->C     3.92 A
+    VAL302  [R] CB  <->C     3.92 A
+    ILE324  [R] CG2 <->C     3.78 A
+    GLY327  [R] CA  <->C     3.75 A
+    TYR328  [R] CD1 <->C     3.83 A
+
+  Total: 16 contactos | Residuos clave: 0
+
+==============================================================
+  NF1 — SITE
+==============================================================
+
+  -- Hidrofobico (9) --
+    PHE154  [R] CE1 <->C     3.54 A
+    PHE154  [M] CE1 <->C     3.91 A
+    PHE158  [M] CE1 <->C     3.81 A
+    LEU196  [M] CB  <->C     3.97 A
+    ILE200  [R] CD1 <->C     3.97 A
+    ILE200  [M] CB  <->C     3.88 A
+    CYS237  [R] CB  <->C     3.85 A
+    PHE241  [R] CB  <->C     3.82 A [CLAVE]
+    PHE241  [M] CB  <->C     3.73 A [CLAVE]
+
+  Total: 9 contactos | Residuos clave: 2
+
+==============================================================
+  NF2 — BLIND
+==============================================================
+
+  -- H-Bond (4) --
+    GLN126  [R] OE1 <->O     3.41 A
+    ASP149  [R] OD2 <->O     3.14 A
+    GLY327  [R] O   <->O     3.06 A
+    TYR328  [R] N   <->O     3.34 A
+
+  -- Electrostatico (1) --
+    ASP149  [R] OD2 <->O     3.14 A
+
+  -- Hidrofobico (9) --
+    TYR150  [R] CE1 <->C     3.64 A
+    LYS235  [R] CA  <->C     3.50 A
+    VAL238  [R] CB  <->C     3.92 A
+    TRP295  [R] CZ3 <->C     3.79 A
+    HIS299  [R] CA  <->C     3.60 A
+    VAL302  [R] CB  <->C     3.94 A
+    ILE324  [R] CG2 <->C     3.84 A
+    GLY327  [R] CA  <->C     3.68 A
+    TYR328  [R] CD1 <->C     3.81 A
+
+  Total: 14 contactos | Residuos clave: 0
+
+==============================================================
+  NF2 — SITE
+==============================================================
+
+  -- Hidrofobico (8) --
+    PHE154  [R] CD1 <->C     3.97 A
+    PHE154  [M] CE1 <->C     3.86 A
+    PHE158  [M] CE1 <->C     3.86 A
+    LEU196  [M] CB  <->C     3.93 A
+    ILE200  [R] CD1 <->C     3.72 A
+    ILE200  [M] CB  <->C     3.95 A
+    PHE241  [R] CB  <->C     3.83 A [CLAVE]
+    PHE241  [M] CB  <->C     3.75 A [CLAVE]
+
+  Total: 8 contactos | Residuos clave: 2
+
+======================================================================
+  TABLA RESUMEN
+======================================================================
+  Ligando Corrida  Total  H-Bond   Hfob  Elec   Clave
+  -------------------------------------------------------
+  fenta   BLIND       10       1      8     1       0
+  fenta   SITE         9       0      9     0       2
+  NF1     BLIND       16       4     11     1       0
+  NF1     SITE         9       0      9     0       2
+  NF2     BLIND       14       4      9     1       0
+  NF2     SITE         8       0      8     0       2
+ANALISIS SITE2 — SITIO ORTOESTERICO CORRECTO
+
+=== FENTA site2 — 12 contactos | H-Bond:1 Hfob:11 Elec:0 Clave:6 ===
+  H-Bond         LYS235  [R] O   <->O    3.25A
+  Hidrofobico    TYR150  [R] CE1 <->C    3.70A
+  Hidrofobico    LEU234  [R] CG  <->C    3.57A
+  Hidrofobico    LYS235  [R] CG  <->C    3.91A
+  Hidrofobico    VAL238  [R] CB  <->C    3.87A
+  Hidrofobico    TRP295  [R] CZ3 <->C    3.71A [CLAVE]
+  Hidrofobico    ILE298  [R] CG1 <->C    3.99A
+  Hidrofobico    HIS299  [R] CA  <->C    3.63A [CLAVE]
+  Hidrofobico    VAL302  [R] CB  <->C    3.97A [CLAVE]
+  Hidrofobico    ILE324  [R] CG1 <->C    3.88A [CLAVE]
+  Hidrofobico    GLY327  [R] CA  <->C    3.76A [CLAVE]
+  Hidrofobico    TYR328  [R] CG  <->C    3.82A [CLAVE]
+
+=== NF1 site2 — 12 contactos | H-Bond:1 Hfob:11 Elec:0 Clave:6 ===
+  H-Bond         LYS235  [R] O   <->O    3.33A
+  Hidrofobico    TYR150  [R] CE1 <->C    3.67A
+  Hidrofobico    LEU234  [R] CG  <->C    3.71A
+  Hidrofobico    LYS235  [R] CG  <->C    3.87A
+  Hidrofobico    VAL238  [R] CG1 <->C    3.61A
+  Hidrofobico    TRP295  [R] CZ3 <->C    3.89A [CLAVE]
+  Hidrofobico    ILE298  [R] CG1 <->C    3.89A
+  Hidrofobico    HIS299  [R] CA  <->C    3.59A [CLAVE]
+  Hidrofobico    VAL302  [R] CB  <->C    3.97A [CLAVE]
+  Hidrofobico    ILE324  [R] CG1 <->C    3.96A [CLAVE]
+  Hidrofobico    GLY327  [R] CA  <->C    3.66A [CLAVE]
+  Hidrofobico    TYR328  [R] CG  <->C    3.79A [CLAVE]
+
+=== NF2 site2 — 12 contactos | H-Bond:1 Hfob:11 Elec:0 Clave:6 ===
+  H-Bond         LYS235  [R] O   <->O    3.32A
+  Hidrofobico    TYR150  [R] CE1 <->C    3.62A
+  Hidrofobico    LEU234  [R] CG  <->C    3.64A
+  Hidrofobico    LYS235  [R] CG  <->C    3.89A
+  Hidrofobico    VAL238  [R] CB  <->C    3.94A
+  Hidrofobico    TRP295  [R] CZ3 <->C    3.69A [CLAVE]
+  Hidrofobico    ILE298  [R] CG1 <->C    3.91A
+  Hidrofobico    HIS299  [R] CA  <->C    3.56A [CLAVE]
+  Hidrofobico    VAL302  [R] CB  <->C    3.98A [CLAVE]
+  Hidrofobico    ILE324  [R] CG1 <->C    3.97A [CLAVE]
+  Hidrofobico    GLY327  [R] CA  <->C    3.73A [CLAVE]
+  Hidrofobico    TYR328  [R] CG  <->C    3.78A [CLAVE]
+
+=======================================================
+  Ligando  Total  H-Bond   Hfob  Elec   Clave
+  fenta       12       1     11     0       6
+  NF1         12       1     11     0       6
+  NF2         12       1     11     0       6
